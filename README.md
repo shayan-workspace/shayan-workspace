@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A passionate MERN developer from Pakistan</h3>
 
-- 💬 Ask me about **typescript, react, next, node, socket io**
+- 💬 Ask me about **typescript, next, mern, socket**
 
 - 📫 How to reach me **shayan.workspace@gmail.com**
 
