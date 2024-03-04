@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer
 -----------------------
 
-Enthusiastic and Skilled MERN Stack Developer with a strong foundation in Web & Mobile Development, having 1+ years of experience. Worked for innovative startups, large products, and agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
+Enthusiastic and Skilled Developer with a strong foundation in Web & Mobile Development, having 1+ years of experience. Worked for innovative startups, large products, and agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
 
 * 🌍  I'm based in Karachi, Pakistan
 * 🖥️  See my [Portfolio](https://shayan-workspace.vercel.app)
