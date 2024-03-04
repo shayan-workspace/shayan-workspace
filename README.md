@@ -13,7 +13,3 @@ Enthusiastic and Skilled Developer with a strong foundation in Web & Mobile Deve
 * 🤝  I'm open to collaborate on interesting projects
 
 ## 🛠️ Technologies & Tools
-
-
-## 📊 Statistics
-[![Shayan's github stats](https://github-readme-stats.vercel.app/api?username=shayan-workspace&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
