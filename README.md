@@ -7,9 +7,9 @@ MERN Stack Developer
 Enthusiastic and Skilled MERN Stack Developer with a strong foundation in Web & Mobile Development, having 1+ years of experience. Worked for innovative startups, large products, and agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
 
 * 🌍  I'm based in Karachi, Pakistan
-* 🖥️  See my [Portfolio](https://shayanameend.vercel.app)
-* ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/shayanameend)
-* ✉️  You can contact me at [shayan.ameen.developer@gmail.com](mailto:shayan.ameen.developer@gmail.com)
+* 🖥️  See my [Portfolio](https://shayan-workspace.vercel.app)
+* ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/shayan-workspace)
+* ✉️  You can contact me at [shayan.workspace@gmail.com](mailto:shayan.workspace@gmail.com)
 * 🤝  I'm open to collaborate on interesting projects
 
 ## 🛠️ Technologies & Tools
