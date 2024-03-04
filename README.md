@@ -13,4 +13,4 @@ Enthusiastic and Skilled Developer with a strong foundation in Web & Mobile Deve
 * 🤝  I'm open to collaborate on interesting projects
 
 ## 🛠️ Technologies & Tools
-[!(https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
+[![](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
