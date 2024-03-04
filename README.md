@@ -2,7 +2,7 @@
 
 ---
 
-## MERN Stack Developer
+## Web & Mobile Developer
 
 Enthusiastic and skilled developer with a strong foundation in Web & Mobile Development, having 1+ years of experience. Worked for innovative startups, large products, and agencies. Familiar with both remote and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable with web, mobile, and API development.
 
