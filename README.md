@@ -35,6 +35,5 @@ Enthusiastic and Skilled Developer with a strong foundation in Web & Mobile Deve
 <img src="stripe.svg" width="48">
 <img src="svelte.svg" width="48">
 <img src="tailwindcss.svg" width="48">
-<img src="typesctipt.svg" width="48">
+<img src="typescript.svg" width="48">
 <img src="vue.svg" width="48">
-<img src="auth.svg" width="48">
