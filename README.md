@@ -13,4 +13,4 @@ Enthusiastic and Skilled Developer with a strong foundation in Web & Mobile Deve
 * 🤝  I'm open to collaborate on interesting projects
 
 ## 🛠️ Technologies & Tools
-[![](https://github.com/shayan-workspace/shayan-workspace/blob/main/auth.svg)](https://github.com/shayan-workspace)
+![](auth.svg)
