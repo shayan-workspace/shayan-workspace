@@ -13,4 +13,5 @@ Enthusiastic and Skilled Developer with a strong foundation in Web & Mobile Deve
 * 🤝  I'm open to collaborate on interesting projects
 
 ## 🛠️ Technologies & Tools
-![](auth.svg)
+<img src="auth.svg" alt="Auth Icon" width="48">
+
